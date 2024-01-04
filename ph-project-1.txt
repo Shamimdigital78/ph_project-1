@@ -1,0 +1,114 @@
+1.cont+r = relode/refresh
+2. top side dot =didnt save
+3.html- hyper text markup language
+4.for creat mark up 5 steps <a> ancor </a>
+5.hilight/strong/bold-<p><b>paragraf</b></p> or strong tag important(sementic)
+6.italic=<i>para</i> or <em>para</em> important(sementic)
+
+###
+1.side bar-cont+b
+2.install -live server,
+code spell checker
+3.heading tags <h1> .....<h6>
+4.small word in line <p> grfjgklfjglkfdjgkl<small> fjdskgfk</small></p>
+5.<span>....</span>
+6.inside paragrap is content
+#####
+1.list items>container tag
+	<li>....</li>
+	<ul>unorderd list</ul> ---Bullet
+	<ol>orderd list</ol> number
+2.div- division is a container
+	<div>
+	<h2>GROCERY ITEMS</h2>
+	<ul>
+	<li>fish</li>
+	<li>veg</li>
+	<li>salt
+	<ul>
+		<li>mollah</li>
+		<li>muskan</li>
+	</ul>
+	</li>
+
+	<p> hffghfhjfjhfghjgfhjg <br>fdffhfgjhfhjfgh</p>
+	<button>click me</button>
+
+#####
+anchor tag
+<a href="https://www.google.com/">google</a>
+
+cont+l=URL copy
+
+
+OPEN IN NEW TAB ?????
+<a href=”link url” target=”_blank” > read more </a>
+
+TARGET
+
+SAME FILE/ page name put in anchor tag.vvvv
+<a href="list.html">my web</a>
+
+#####
+<img src="images/ " alt=" ">-----void tag
+Get image
+1.copy link from internet
+2.from own image from local folder
+
+######
+form
+<input type="submit" value="login">
+<br>
+<input type="text">
+<br>
+<br>
+<input type="password" name="" id="">
+<input type="checkbox" name="" id="">
+<input type="date" name="" id="">
+<input type="email" placeholder="your email" name="" id="">
+<input type="file" name="" id="">
+same line=inline elements
+some time use <br> tag 
+<input type="submit" value="submit">
+<buttom>this is a button</button>
+
+<select name="" id=""> 
+	<option value="tea">TEA</option>
+	<option value="coffee">COFFEE</option>
+</select>
+
+TASK- how many input field /what are different type of input tag in html ???
+how to change un order list type from bullet to a.b.c or 1.2.3 ??
+<ul type="a">
+
+#######
+html structure
+header
+body
+footer
+shift+! =structure.
+
+title
+fevicon
+
+<footer><small> &copy, all rights reserved</small></footer>
+
+<span> fjshfjh</span> same line but different colour
+###### SUMMARY ######
+block
+###
+###
+###
+inline
+### ### ###
+h1,p =block
+a inline
+google= inline/block element list in html
+
+
+
+summary 
+
+
+
+
